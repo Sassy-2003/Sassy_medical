@@ -13,7 +13,7 @@ const Contact = () => {
           <p className='font-semibold text-lg text-gray-600'>OUR OFFICE</p>
           <p className='text-gray-500'>HYDERABAD <br></br>Telangana, INDIA</p>
           <p className='text-gray-500'>Tel: xxxxxxxxxx <br></br> Email: kaminenisairam33@gmail.com</p>
-          <p className='font-semibold text-lg text-gray-600'>CAREERS AT PRESCRIPTO</p>
+          <p className='font-semibold text-lg text-gray-600'>CAREERS AT Sassy</p>
           <p className='text-gray-500'>Learn more about our teams and job openings.</p>
           <button className='border corder-black px-8 py-4 text-sm hover:bg-black hover:text-white transistion-all duration-500'>Explore jobs</button>
         </div>
