@@ -11,6 +11,7 @@ import Appointment from './pages/appointment'
 import Navbar from './components/Navbar'
 import Banner from './components/Banner'
 import Footer from './components/Footer'
+import Chatbot from './components/chatbot'
 
 const App = () => {
   return (
@@ -28,6 +29,7 @@ const App = () => {
         <Route path='/appointment/:docId' element={<Appointment />} />
         <Route path='/Banner' element={<Banner/>} />
       </Routes>
+      <Chatbot/>
       <Footer/>
     </div>
   )
