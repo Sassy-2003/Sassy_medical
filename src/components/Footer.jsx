@@ -7,7 +7,7 @@ const Footer = () => {
             {/* left */}
             <div>
                 <img className='mb-5 w-40' src={assets.logo} alt=""/>
-                <p className='w-full md:w-2/3 text-gray-600 lwading-6'>A Real time project developed by K.Sai ram Chowdary</p>
+                <p className='w-full md:w-2/3 text-gray-600 lwading-6'>A Real time project developed by K.Sai ram Chowdary.<br></br>To access the webpage, please click 'Home'. For assistance, please use the chatbot in the bottom right corner.</p>
             </div>
             {/*center */}
             <div>

@@ -56,7 +56,7 @@ const Chatbot = () => {
 
   return (
     <div>
-      <h1>Chatbot Integration</h1>
+      <h1></h1>
       <div id="chatbot-container">
         {/* The chatbot will likely initialize in the body or specific container */}
       </div>
